@@ -1,4 +1,6 @@
-You can see ticket here #1
+# Midterm
+
+You can see ticket here [#1](https://github.com/fa1234/csc583-midterm/issues/1) and 
 [picture is here](https://github.com/fa1234/csc583-midterm/blob/master/milestones.png)
 
 

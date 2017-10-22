@@ -1,3 +1,8 @@
+You can see ticket here #1
+[picture is here](https://github.com/fa1234/csc583-midterm/blob/master/milestones.png)
+
+
+
 # Toro Net
 
 ## Getting started with VirtualBox
